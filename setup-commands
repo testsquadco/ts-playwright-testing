@@ -1,0 +1,7 @@
+mkdir playwright-testing-framework
+cd playwright-testing-framework
+npm init -y
+npm install @playwright/test allure-playwright dotenv
+npm install -D @types/node @types/js-yaml js-yaml typescript
+npx playwright install
+mkdir -p tests pages core utils test-data .github/workflows 
