@@ -35,7 +35,7 @@ A comprehensive testing framework built with Playwright and TypeScript for web a
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/testsquadco/ts-playwright-testing.git)
 cd playwright-testing-framework
 ```
 
