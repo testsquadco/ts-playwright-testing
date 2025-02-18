@@ -163,6 +163,19 @@ test('api test example', async ({ request }) => {
 5. Open a Pull Request
 6. Mention TestSquad on LinkedIn :)
 
-## 📄 License
+## Support
 
-This project is licensed under the ISC License.
+Need help implementing this framework or looking for custom automation solutions? Contact TestSquad:
+
+- 📧 Email: info@testsquad.co
+- 🌐 Website: https://testsquad.co
+- 💼 Services: Mobile Testing, Automation Solutions, QA Consulting
+
+
+## License
+
+Released under the [MIT License](LICENSE).
+
+---
+
+<p align="center">Powered by <a href="https://testsquad.co">TestSquad</a> - Your Quality Assurance Partner</p>
